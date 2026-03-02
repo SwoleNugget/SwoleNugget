@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to code Python an several Markup languages
 - 💞️ I’m looking to collaborate on tools and extensions that help with PTKM Systems
 - 📫 Befriend me on Github
-- 😄 Pronouns: not/queer/because/I/went/to/school
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Everytime a ricebag tips over in China, nobody cares for some reason
 
 <!---
